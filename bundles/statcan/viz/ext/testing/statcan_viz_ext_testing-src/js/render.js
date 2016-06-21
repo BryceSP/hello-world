@@ -23,6 +23,7 @@ function(generalize) {
 		//Add pattern for dimension A.
 		//
 		//New line.
+		//Extra.
 
 		dGen.add("word", function(value, index, self) {
 		    var n = Number(value);
